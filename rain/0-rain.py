@@ -5,7 +5,6 @@
 
 
 def rain(walls):
-    
     water_temp = 0
     water = 0
     size = len(walls)
